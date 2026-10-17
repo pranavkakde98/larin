@@ -1,0 +1,509 @@
+{
+ "privacy-policy": {
+  "title": "Privacy Policy",
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Privacy Policy"
+   },
+   {
+    "type": "p",
+    "text": "At Lareine, we prioritize your privacy and are committed to protecting any personal information you share with us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or make a purchase. Please read this policy carefully to understand how we handle your personal data."
+   },
+   {
+    "type": "h",
+    "text": "1. Information We Collect"
+   },
+   {
+    "type": "p",
+    "text": "We may collect the following types of information:"
+   },
+   {
+    "type": "li",
+    "text": "Personal Identification Information: Name, email address, phone number, billing/shipping address, payment details, and any other information you voluntarily provide when you make a purchase, subscribe to our newsletter, or interact with customer support."
+   },
+   {
+    "type": "li",
+    "text": "Non-Personal Information: Browser type, device information, operating system, IP address, and details about how you navigate through our website (e.g., page views, time spent on pages)."
+   },
+   {
+    "type": "li",
+    "text": "Cookies and Tracking Technologies: We use cookies to improve your browsing experience, personalize content, and analyze website traffic. You can disable cookies in your browser settings, but this may affect the website’s functionality."
+   },
+   {
+    "type": "h",
+    "text": "2. How We Use Your Information"
+   },
+   {
+    "type": "p",
+    "text": "We may use the collected data for the following purposes:"
+   },
+   {
+    "type": "li",
+    "text": "To process and fulfill orders, including payment processing and delivery."
+   },
+   {
+    "type": "li",
+    "text": "To communicate with you regarding your order, support inquiries, or promotional offers (if you opted in)."
+   },
+   {
+    "type": "li",
+    "text": "To improve our website and services by analyzing user behavior and preferences."
+   },
+   {
+    "type": "li",
+    "text": "To protect against fraud and ensure the security of your transactions."
+   },
+   {
+    "type": "li",
+    "text": "To comply with legal obligations and resolve any disputes."
+   },
+   {
+    "type": "h",
+    "text": "3. How We Protect Your Information"
+   },
+   {
+    "type": "p",
+    "text": "We implement strict security measures to protect your personal data from unauthorized access, disclosure, alteration, or destruction. These include encryption, secure servers, and regular monitoring of our systems. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security."
+   },
+   {
+    "type": "h",
+    "text": "4. Sharing Your Information"
+   },
+   {
+    "type": "p",
+    "text": "We do not sell, trade, or rent your personal information to third parties. However, we may share your information in the following situations:"
+   },
+   {
+    "type": "li",
+    "text": "Service Providers: We may share information with trusted third-party service providers who assist us in operating our website (e.g., payment processors, shipping companies)."
+   },
+   {
+    "type": "li",
+    "text": "Legal Compliance: We may disclose your information if required by law, such as in response to a subpoena or to protect our rights."
+   },
+   {
+    "type": "h",
+    "text": "5. Your Rights"
+   },
+   {
+    "type": "p",
+    "text": "You have the following rights regarding your personal data:"
+   },
+   {
+    "type": "li",
+    "text": "Access and Update: You may request access to the personal information we hold about you and request corrections if it is inaccurate or incomplete."
+   },
+   {
+    "type": "li",
+    "text": "Deletion: You may request the deletion of your personal data, subject to certain legal obligations."
+   },
+   {
+    "type": "li",
+    "text": "Opt-Out: You may unsubscribe from marketing communications at any time by following the instructions in our emails or contacting us directly."
+   },
+   {
+    "type": "h",
+    "text": "6. Third-Party Links"
+   },
+   {
+    "type": "p",
+    "text": "Our website may contain links to third-party websites. We are not responsible for the privacy practices or content of those sites, and we encourage you to read their privacy policies."
+   },
+   {
+    "type": "h",
+    "text": "7. Children’s Privacy"
+   },
+   {
+    "type": "p",
+    "text": "Our website is not intended for individuals under the age of 16. We do not knowingly collect personal information from children under 16. If we learn that we have collected such data, we will take steps to delete it."
+   },
+   {
+    "type": "h",
+    "text": "8. Changes to This Privacy Policy"
+   },
+   {
+    "type": "p",
+    "text": "We may update this policy periodically to reflect changes in our practices or legal requirements. The updated policy will be posted on this page with the effective date at the top."
+   },
+   {
+    "type": "h",
+    "text": "9. Contact Us"
+   },
+   {
+    "type": "p",
+    "text": "If you have any questions or concerns regarding this Privacy Policy, please contact us at:"
+   }
+  ]
+ },
+ "terms-and-conditions": {
+  "title": "Terms and Conditions",
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Terms and Conditions"
+   },
+   {
+    "type": "p",
+    "text": "Welcome to Lareine. By accessing or using our website, located at [lareine.com], you agree to comply with and be bound by the following terms and conditions. Please read them carefully before using our website. If you do not agree to these terms, you must discontinue using our site."
+   },
+   {
+    "type": "h",
+    "text": "1. Acceptance of Terms"
+   },
+   {
+    "type": "p",
+    "text": "By accessing, browsing, or using any part of this website, you agree to be bound by these terms and conditions. Lareine reserves the right to change, modify, or update these terms at any time without prior notice. Your continued use of the site after such changes signifies your acceptance of the updated terms."
+   },
+   {
+    "type": "h",
+    "text": "2. Use of the Website"
+   },
+   {
+    "type": "p",
+    "text": "You may use lareine.com only for lawful purposes and in compliance with these Terms and Conditions. You agree not to:"
+   },
+   {
+    "type": "li",
+    "text": "Violate any applicable laws or regulations while using the site."
+   },
+   {
+    "type": "li",
+    "text": "Interfere with the security or proper functioning of the site."
+   },
+   {
+    "type": "li",
+    "text": "Use the website in any manner that could harm the company or its users."
+   },
+   {
+    "type": "li",
+    "text": "Submit false or misleading information."
+   },
+   {
+    "type": "li",
+    "text": "Attempt to gain unauthorized access to any part of the site, servers, or data."
+   },
+   {
+    "type": "h",
+    "text": "3. Account Registration"
+   },
+   {
+    "type": "p",
+    "text": "To make purchases, you may need to create an account with us. You agree to:"
+   },
+   {
+    "type": "li",
+    "text": "Provide accurate, current, and complete information during registration."
+   },
+   {
+    "type": "li",
+    "text": "Keep your login credentials secure and confidential."
+   },
+   {
+    "type": "li",
+    "text": "Notify us immediately of any unauthorized use of your account or security breach."
+   },
+   {
+    "type": "p",
+    "text": "Lareine reserves the right to suspend or terminate your account if any information provided is inaccurate or if you violate these Terms and Conditions."
+   },
+   {
+    "type": "h",
+    "text": "4. Products and Pricing"
+   },
+   {
+    "type": "p",
+    "text": "We strive to display our products and prices accurately. However, Lareine reserves the right to modify prices, product descriptions, and availability at any time without notice."
+   },
+   {
+    "type": "li",
+    "text": "Product Availability: We cannot guarantee the availability of all items at all times. If an item is unavailable after you place an order, we will inform you and provide alternatives or process a refund."
+   },
+   {
+    "type": "li",
+    "text": "Pricing Errors: In the event of a pricing error, we reserve the right to cancel any orders affected and offer refunds or adjustments."
+   },
+   {
+    "type": "h",
+    "text": "5. Orders and Payment"
+   },
+   {
+    "type": "p",
+    "text": "By placing an order, you agree that:"
+   },
+   {
+    "type": "li",
+    "text": "You are authorized to use the payment method provided."
+   },
+   {
+    "type": "li",
+    "text": "All billing and payment information you provide is true and accurate."
+   },
+   {
+    "type": "li",
+    "text": "We may contact you if there is an issue with your order or payment."
+   },
+   {
+    "type": "p",
+    "text": "We accept [list of accepted payment methods]. All payments must be received before shipment unless otherwise agreed upon. In the event of a dispute, we reserve the right to cancel your order and provide a refund."
+   },
+   {
+    "type": "h",
+    "text": "6. Shipping and Delivery"
+   },
+   {
+    "type": "p",
+    "text": "We strive to ship all orders promptly. Delivery times are estimates and may vary depending on your location and other factors. We are not responsible for any delays caused by third-party shipping providers."
+   },
+   {
+    "type": "p",
+    "text": "Shipping costs and options will be displayed at checkout, and any applicable duties, taxes, or fees will be the responsibility of the buyer."
+   },
+   {
+    "type": "h",
+    "text": "7. Returns and Refunds"
+   },
+   {
+    "type": "p",
+    "text": "We want you to be satisfied with your purchase. If you are not happy with an item, please review our Return Policy for instructions on how to return or exchange products. Refunds will be processed according to the terms in the Return Policy."
+   },
+   {
+    "type": "h",
+    "text": "8. Intellectual Property"
+   },
+   {
+    "type": "p",
+    "text": "All content on lareine.com, including but not limited to text, graphics, logos, images, and software, is the property of Lareine or its licensors and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or exploit any content without express written permission from Lareine."
+   },
+   {
+    "type": "h",
+    "text": "9. Limitation of Liability"
+   },
+   {
+    "type": "p",
+    "text": "To the fullest extent permitted by law, Lareine and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages resulting from:"
+   },
+   {
+    "type": "li",
+    "text": "Your use of the website or inability to use the website."
+   },
+   {
+    "type": "li",
+    "text": "Any content errors, inaccuracies, or omissions."
+   },
+   {
+    "type": "li",
+    "text": "Unauthorized access to or use of our servers and/or any personal information stored therein."
+   },
+   {
+    "type": "p",
+    "text": "Our total liability for any claim arising out of these terms shall not exceed the amount paid by you for the goods or services related to that claim."
+   },
+   {
+    "type": "h",
+    "text": "10. Disclaimer"
+   },
+   {
+    "type": "p",
+    "text": "Lareine makes no warranties, expressed or implied, regarding the accuracy, reliability, or availability of the website. We provide the website on an “as is” basis and disclaim all warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement."
+   },
+   {
+    "type": "h",
+    "text": "11. Indemnification"
+   },
+   {
+    "type": "p",
+    "text": "You agree to indemnify, defend, and hold harmless Lareine, its employees, officers, and affiliates from any claims, damages, losses, liabilities, or expenses arising from:"
+   },
+   {
+    "type": "li",
+    "text": "Your use of the website."
+   },
+   {
+    "type": "li",
+    "text": "Your violation of these Terms and Conditions."
+   },
+   {
+    "type": "li",
+    "text": "Any illegal or harmful activity conducted on or through your account."
+   },
+   {
+    "type": "h",
+    "text": "12. Governing Law"
+   },
+   {
+    "type": "p",
+    "text": "These Terms and Conditions are governed by the laws of [Insert Jurisdiction], without regard to its conflict of law principles. Any disputes arising out of or relating to these terms shall be resolved in the courts of [Insert Jurisdiction]."
+   },
+   {
+    "type": "h",
+    "text": "13. Termination"
+   },
+   {
+    "type": "p",
+    "text": "We reserve the right to terminate your access to the website or your account at our discretion if you breach these Terms and Conditions or engage in any illegal activities."
+   },
+   {
+    "type": "h",
+    "text": "14. Contact Information"
+   },
+   {
+    "type": "p",
+    "text": "If you have any questions or concerns regarding these Terms and Conditions, please contact us at:"
+   }
+  ]
+ },
+ "return-refund-policy": {
+  "title": "Return & Refund Policy",
+  "blocks": [
+   {
+    "type": "p",
+    "text": "Return and Refund Policy"
+   },
+   {
+    "type": "p",
+    "text": "At Lareine, we are committed to ensuring your satisfaction with every purchase. If you are not entirely happy with your order, we’re here to help. Please carefully review our return and refund policy below."
+   },
+   {
+    "type": "h",
+    "text": "1. Returns"
+   },
+   {
+    "type": "p",
+    "text": "You have [Insert Number] days from the date of delivery to return an item, subject to the following conditions:"
+   },
+   {
+    "type": "li",
+    "text": "Eligible Items: To be eligible for a return, the item must be unused, in the same condition that you received it, and in its original packaging. Certain products, such as [insert categories like intimate clothing, perishable goods, custom-made items, etc.], may be exempt from returns."
+   },
+   {
+    "type": "li",
+    "text": "Proof of Purchase: A valid receipt or proof of purchase is required to process all returns."
+   },
+   {
+    "type": "li",
+    "text": "Return Process: To initiate a return, please contact us at [Insert Contact Email] with your order number and reason for the return. Our customer service team will guide you through the return process."
+   },
+   {
+    "type": "h",
+    "text": "2. Non-Returnable Items"
+   },
+   {
+    "type": "p",
+    "text": "Certain items cannot be returned, including:"
+   },
+   {
+    "type": "li",
+    "text": "Gift cards"
+   },
+   {
+    "type": "li",
+    "text": "Downloadable software products"
+   },
+   {
+    "type": "li",
+    "text": "Personal care items (such as cosmetics or hygiene products) once opened"
+   },
+   {
+    "type": "li",
+    "text": "Custom or personalized items"
+   },
+   {
+    "type": "li",
+    "text": "Items marked as “Final Sale”"
+   },
+   {
+    "type": "h",
+    "text": "3. Refunds"
+   },
+   {
+    "type": "p",
+    "text": "Once we receive and inspect your returned item, we will notify you via email. We will also inform you of the approval or rejection of your refund based on the item’s condition."
+   },
+   {
+    "type": "li",
+    "text": "Approved Refunds: If approved, your refund will be processed, and a credit will automatically be applied to your original payment method within [Insert Number] business days. Please note that the time it takes for your refund to reflect in your account may vary depending on your bank or payment provider."
+   },
+   {
+    "type": "li",
+    "text": "Partial Refunds: In certain situations, only partial refunds may be granted, such as when an item is returned not in its original condition, damaged, or missing parts for reasons not due to our error."
+   },
+   {
+    "type": "h",
+    "text": "4. Late or Missing Refunds"
+   },
+   {
+    "type": "p",
+    "text": "If you have not received your refund after [Insert Number] business days, please:"
+   },
+   {
+    "type": "li",
+    "text": "Check your bank account or payment provider statement."
+   },
+   {
+    "type": "li",
+    "text": "Contact your credit card company or bank, as there may be some processing time before your refund is officially posted."
+   },
+   {
+    "type": "li",
+    "text": "If you still have not received your refund, please contact us at [Insert Contact Email]."
+   },
+   {
+    "type": "h",
+    "text": "5. Exchanges"
+   },
+   {
+    "type": "p",
+    "text": "We only replace items if they are defective or damaged. If you need to exchange an item for the same product, please contact us at [Insert Contact Email]. We will guide you through the process of returning the damaged item and issuing a replacement."
+   },
+   {
+    "type": "h",
+    "text": "6. Shipping Costs for Returns"
+   },
+   {
+    "type": "li",
+    "text": "Customer Responsibility: You will be responsible for paying the shipping costs for returning your item unless the return is due to an error on our part (such as receiving a defective or incorrect item). Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund, if applicable."
+   },
+   {
+    "type": "li",
+    "text": "Return Shipping Label: If you are returning an item due to an error or defect, we will provide a prepaid return shipping label."
+   },
+   {
+    "type": "h",
+    "text": "7. Return Shipping Address"
+   },
+   {
+    "type": "p",
+    "text": "Please send your returned item to the following address:"
+   },
+   {
+    "type": "p",
+    "text": "Return Address:[Insert Physical Address][Insert City, State, ZIP Code]"
+   },
+   {
+    "type": "h",
+    "text": "8. Cancellation Policy"
+   },
+   {
+    "type": "p",
+    "text": "If you wish to cancel your order, please contact us as soon as possible at [Insert Contact Email]. Orders can be canceled before they are shipped. Once an order has shipped, it can no longer be canceled and will fall under our return policy."
+   },
+   {
+    "type": "h",
+    "text": "9. Damaged or Defective Items"
+   },
+   {
+    "type": "p",
+    "text": "If you receive an item that is damaged or defective, please contact us within [Insert Number] days of receiving the item. We will arrange for a replacement or a refund after reviewing the situation and inspecting the damaged product, if necessary."
+   },
+   {
+    "type": "h",
+    "text": "10. Contact Us"
+   },
+   {
+    "type": "p",
+    "text": "If you have any questions about our Return and Refund Policy, please contact us at:"
+   }
+  ]
+ }
+}
